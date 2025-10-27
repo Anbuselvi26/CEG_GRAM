@@ -154,13 +154,22 @@ http://localhost:3000
 
 ## 📱 Key Features
 
-✅ Role-based authentication (User, Admin, Master)
-✅ Club and sub-club management system
-✅ Dynamic event display and participation
-✅ Status-based activation and deactivation control
-✅ User-friendly interface with structured navigation
-✅ Secure backend with Django ORM
-✅ Real-time communication via REST APIs
+## 🚀 Key Features
+
+✅ **Role-based authentication** (User, Admin, Master)
+  
+✅ **Club and sub-club management system**
+  
+✅ **Dynamic event display and participation**
+
+✅ **Status-based activation and deactivation control**
+  
+✅ **User-friendly interface** with structured navigation
+  
+✅ **Secure backend** with Django ORM
+  
+✅ **Real-time communication** via REST APIs
+
 
 ---
 
@@ -190,4 +199,4 @@ Attribution to the developers is appreciated when reused or adapted.
 ---
 
 > *“Connecting CEG clubs, empowering students, and simplifying management — all in one platform!”* 
-# CEG_GRAM
+
