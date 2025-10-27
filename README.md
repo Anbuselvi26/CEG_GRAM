@@ -190,3 +190,4 @@ Attribution to the developers is appreciated when reused or adapted.
 ---
 
 > *“Connecting CEG clubs, empowering students, and simplifying management — all in one platform!”* 
+# CEG_GRAM
